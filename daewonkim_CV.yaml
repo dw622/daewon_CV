@@ -186,7 +186,7 @@ cv:
       - The `design` field in YAML gives you control over almost any aspect of your CV design.
       - See the [documentation](https://docs.rendercv.com) for more details.
 design:
-  theme: engineeringclassic
+  theme: engineeringresumes
   # page:
   #   size: us-letter
   #   top_margin: 0.7in
