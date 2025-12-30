@@ -7,11 +7,7 @@
 
 # Research Interests
 
-System Verification
-
-Computational Mechanics
-
-Embedded System
+System Verification, Computational Mechanics, Embedded System
 
 # Education
 
@@ -27,7 +23,7 @@ MS in Mechanical Engineering
 
 ## **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, Daegu, KoreaFeb 2020 – Feb 2026
 
-BS in Mechanical Engineering
+BS in Mechanical Engineering Track
 
 - GPA: 4.04\/4.30, Summa Cum Laude
 
@@ -125,8 +121,6 @@ Sept 2024 – Dec 2024
 
 #summary[Designed and implemented a 4-wheel independent steering vehicle; applied reinforcement learning for navigation]
 
-- Managed end-to-end development: 3D CAD, computer vision, control systems (PID), and embedded software
-
 - Solely responsible for the design of a complex system requiring numerous components, efficiently arranging them through optimized 3D design to ensure unobstructed workflow
 
 
@@ -159,7 +153,11 @@ June 2024 – Oct 2024
 
 - Dean’s List, College of Transdisciplinary Studies, DGIST (2023 Spring & Fall, 2024 Spring, 2025 Spring & Fall)
 
-- Full-Tuition, Scholarship Student (2020 – 2026)
+- Excellence Award (FameLab), College of Transdisciplinary Studies Student Symposium, DGIST (2020)
+
+- MIREBrain Scholarship, DGIST (2020)
+
+- Full-Tuition, Scholarship Student, DGIST (2020 – 2026)
 
 # Skills
 
@@ -167,7 +165,7 @@ June 2024 – Oct 2024
 
 - Programming: C\/C++, Python, MATLAB (Simulink)
 
-- Libraries\/Softwares: ROS1\/ROS2, Gazebo, Arduino, MuJoCo, SolidWorks, 3D CAD, ModusToolbox^TM
+- Libraries\/Softwares: ROS1\/ROS2, Gazebo, Arduino, MuJoCo, SolidWorks, 3D CAD, ModusToolbox
 
 - Hardware Skills: 3D printing, soldering and wiring, welding
 
