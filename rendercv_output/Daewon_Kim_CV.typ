@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Daewon Kim",
   footer: context { [#emph[Daewon Kim -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Dec 2025] ],
+  top-note: [ #emph[Last updated in Feb 2026] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -76,9 +76,9 @@
   entries-highlights-space-between-items: 0.08cm,
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
-    year: 2025,
-    month: 12,
-    day: 29,
+    year: 2026,
+    month: 2,
+    day: 27,
   ),
 )
 
