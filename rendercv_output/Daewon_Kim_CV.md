@@ -6,11 +6,9 @@
 
 
 # Research Interests
-
 System Verification, Computational Mechanics, Embedded System
 
 # Education
-
 ## **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, KoreaMar 2026
 
 MS in Mechanical Engineering
@@ -23,14 +21,13 @@ MS in Mechanical Engineering
 
 ## **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, Daegu, KoreaFeb 2020 – Feb 2026
 
-BS in Mechanical Engineering Track
+Bachelor of Engineering in Mechanical Engineering
 
-- GPA: 4.04\/4.30, Summa Cum Laude
+- GPA: 4.04/4.30, Summa Cum Laude
 
 
 
 # Experiences
-
 ## **Research Intern**
 
 June 2025 – Aug 2025
@@ -61,7 +58,7 @@ June 2023 – Aug 2025
 
 University of California Berkeley Summer Sessions -- Berkeley, CA
 
-- Multi\/Interdisciplinary studies
+- Multi/Interdisciplinary studies
 
 
 
@@ -80,26 +77,24 @@ Surgical Robotics & Augmented Reality Lab, DGIST -- Daegu, Korea
 
 
 # Publications
+1. **Daewon Kim**, Taesang Park, Choongpyo Jeong, Jaeseong Lee, Gwangmin Park and Seonghun Lee*, “Impact of Driver Characteristics and Environmental Conditions on HOD System Adaptability”, _PRESM 2025_, July. 2025.
 
-- #strong[Daewon Kim], Taesang Park, Choongpyo Jeong, Jaeseong Lee, Gwangmin Park and Seonghun Lee#sym.ast.basic#h(0pt, weak: true) , “Impact of Driver Characteristics and Environmental Conditions on HOD System Adaptability”, #emph[PRESM 2025], July. 2025.
+1. **Daewon Kim**, Sunwoo Yu, Jaehyeon Lee and Seonghun Lee*, “Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar”, _The Korean Institute of Communications and Information Sciences (KICS) Conference (Fall)_, pp. 1111-1112, Nov. 2024.
 
-- #strong[Daewon Kim], Sunwoo Yu, Jaehyeon Lee and Seonghun Lee#sym.ast.basic#h(0pt, weak: true) , “Development of a Driver Monitoring System Using the Capacitive Steering Wheel and FMCW Radar”, #emph[The Korean Institute of Communications and Information Sciences (KICS) Conference (Fall)], pp. 1111-1112, Nov. 2024.
+1. **Daewon Kim**, Jaeseong Lee, Taesang Park, Choongpyo Jeong and Seonghun Lee*, “Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors”, _Institute of Embedded Engineering of Korea (IeMeK) Conference (Fall)_, pp. 59-60, Nov. 2024.
 
-- #strong[Daewon Kim], Jaeseong Lee, Taesang Park, Choongpyo Jeong and Seonghun Lee#sym.ast.basic#h(0pt, weak: true) , “Development of a Capacitance Sensing System for Large-Area Simple Touch Sensors”, #emph[Institute of Embedded Engineering of Korea (IeMeK) Conference (Fall)], pp. 59-60, Nov. 2024.
+1. Jaehyeon Lee, Sunwoo Yu, **Daewon Kim**, and Kiwon Choi, “Multi-patching: life-log Classification with the Reconstructed Representation of Multivariate Time Series”, _The 15th International Conference on ICT Convergence (ICTC 2024)_, pp. 798-803, Oct. 2024.
 
-- Jaehyeon Lee, Sunwoo Yu, #strong[Daewon Kim], and Kiwon Choi, “Multi-patching: life-log Classification with the Reconstructed Representation of Multivariate Time Series”, #emph[The 15th International Conference on ICT Convergence (ICTC 2024)], pp. 798-803, Oct. 2024.
+1. **Daewon Kim**, Jaseong Lee, Tasang Park and Seonhun Lee*, “Analysis of Capacitive Touch Sensors in Automotive Steering Wheel”, _Korea Society Automotive (KSAE) Conference (Spring)_, pp. 1089-1091, June. 2024.
 
-- #strong[Daewon Kim], Jaseong Lee, Tasang Park and Seonhun Lee#sym.ast.basic#h(0pt, weak: true) , “Analysis of Capacitive Touch Sensors in Automotive Steering Wheel”, #emph[Korea Society Automotive (KSAE) Conference (Spring)], pp. 1089-1091, June. 2024.
-
-- #strong[Daewon Kim], Jaseong Lee, Taesang Park and Seonhun Lee#sym.ast.basic#h(0pt, weak: true) , “Principle and Characteristics of Touch sensor Utilizing conductive Fabric”, #emph[The 19th IeMeK Symposium on Embedded Technology (ISET 2024)], pp. 205-206, May. 2024.
+1. **Daewon Kim**, Jaseong Lee, Taesang Park and Seonhun Lee*, “Principle and Characteristics of Touch sensor Utilizing conductive Fabric”, _The 19th IeMeK Symposium on Embedded Technology (ISET 2024)_, pp. 205-206, May. 2024.
 
 # Projects
-
 ## **Hands-Off Detection (HOD)**
 
 Jan 2024 – June 2025
 
-#summary[Developed a capacitive sensing-based Hands-Off Detection (HOD) system for real vehicle environments.]
+Developed a capacitive sensing-based Hands-Off Detection (HOD) system for real vehicle environments.
 
 - Designed and validated detection algorithms considering factors like glove material, contact pressure, and electromagnetic shielding
 
@@ -109,9 +104,9 @@ Jan 2024 – June 2025
 
 July 2024 – Dec 2024
 
-#summary[Developed a driver fatigue detection system combining FMCW radar and capacitive sensors]
+Developed a driver fatigue detection system combining FMCW radar and capacitive sensors
 
-- Integrated machine\/deep learning for FMCW radar signal analysis; deployed GUI-based fatigue alerts
+- Integrated machine/deep learning for FMCW radar signal analysis; deployed GUI-based fatigue alerts
 
 
 
@@ -119,7 +114,7 @@ July 2024 – Dec 2024
 
 Sept 2024 – Dec 2024
 
-#summary[Designed and implemented a 4-wheel independent steering vehicle; applied reinforcement learning for navigation]
+Designed and implemented a 4-wheel independent steering vehicle; applied reinforcement learning for navigation
 
 - Solely responsible for the design of a complex system requiring numerous components, efficiently arranging them through optimized 3D design to ensure unobstructed workflow
 
@@ -139,14 +134,13 @@ Sept 2024 – Dec 2024
 
 June 2024 – Oct 2024
 
-#summary[Proposed a multi-patching framework for life-log classification using reconstructed multivariate time series data.]
+Proposed a multi-patching framework for life-log classification using reconstructed multivariate time series data.
 
 - Improved temporal representation by learning local patterns through patch-wise attention and reconstruction
 
 
 
 # Honors
-
 - Encouragement Prize, The World Embedded Software Contest 2024, KESSIA (2024)
 
 - Encouragement Prize, Human Understanding AI Paper Challenge 2024, ETRI (2024)
@@ -160,13 +154,12 @@ June 2024 – Oct 2024
 - Full-Tuition, Scholarship Student, DGIST (2020 – 2026)
 
 # Skills
+**Languages:** TOEIC: 870 (2024.11.24), TOEFL 85 (2025.03.15)
 
-- Languages: TOEIC: 870 (2024.11.24), TOEFL 85 (2025.03.15)
+**Programming:** C/C++, Python, MATLAB (Simulink)
 
-- Programming: C\/C++, Python, MATLAB (Simulink)
+**Libraries/Softwares:** ROS1/ROS2, Gazebo, Arduino, MuJoCo, SolidWorks, 3D CAD, ModusToolbox
 
-- Libraries\/Softwares: ROS1\/ROS2, Gazebo, Arduino, MuJoCo, SolidWorks, 3D CAD, ModusToolbox
+**Hardware Skills:** 3D printing, soldering and wiring, welding
 
-- Hardware Skills: 3D printing, soldering and wiring, welding
-
-- Hardware Platforms: Teensy, STM, PSOC4&6
+**Hardware Platforms:** Teensy, STM, PSOC4&6
