@@ -108,7 +108,7 @@ System Verification, Computational Mechanics, Embedded System
 
   ],
   [
-    Mar 2026
+    Mar 2026 – present
 
   ],
   main-column-second-row: [

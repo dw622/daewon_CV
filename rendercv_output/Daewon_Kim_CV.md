@@ -9,7 +9,7 @@
 System Verification, Computational Mechanics, Embedded System
 
 # Education
-## **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, KoreaMar 2026
+## **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, KoreaMar 2026 – present
 
 MS in Mechanical Engineering
 
