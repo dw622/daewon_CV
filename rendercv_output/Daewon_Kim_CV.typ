@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Daewon Kim",
   footer: context { [#emph[Daewon Kim -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Feb 2026] ],
+  top-note: [ #emph[Last updated in May 2026] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 2,
-    day: 27,
+    month: 5,
+    day: 19,
   ),
 )
 
@@ -133,7 +133,7 @@ System Verification, Computational Mechanics, Embedded System
   main-column-second-row: [
     Bachelor of Engineering in Mechanical Engineering
 
-    - GPA: 4.04\/4.30, Summa Cum Laude
+    - GPA: 4.04\/4.30, #strong[Summa Cum Laude]
 
   ],
 )

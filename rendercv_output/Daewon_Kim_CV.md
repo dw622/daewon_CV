@@ -23,7 +23,7 @@ MS in Mechanical Engineering
 
 Bachelor of Engineering in Mechanical Engineering
 
-- GPA: 4.04/4.30, Summa Cum Laude
+- GPA: 4.04/4.30, **Summa Cum Laude**
 
 
 

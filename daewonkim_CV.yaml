@@ -1,4 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.4/schema.json
+# 이거 할때마다 까먹으니까 적어놓기
+# rendercv render "얌 파일 이름"
 cv:
   name: Daewon Kim
   headline: 
@@ -40,7 +42,7 @@ cv:
         degree: MS
         date: 
         start_date: 2026-03
-        end_date: 
+        end_date: present
         location: Daejeon, Korea
         summary: 
         highlights:
@@ -55,7 +57,7 @@ cv:
         location: Daegu, Korea
         summary:
         highlights:
-          - 'GPA: 4.04/4.30, Summa Cum Laude'
+          - 'GPA: 4.04/4.30, **Summa Cum Laude**'
 
 
 
@@ -367,7 +369,7 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: '2026-02-27'
+  current_date: '2026-05-19'
   render_command:
     design:
     locale:
